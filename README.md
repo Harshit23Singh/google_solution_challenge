@@ -1,5 +1,5 @@
 # google_solution_challenge
-# Eco Cool – Climate Conscious Web Solution by Quantum Coders
+# Eco Cool – Climate Conscious Web Solution by Quantom Coders
 
 Welcome to *Eco Cool, an innovative web platform developed by **Team Quantum Coders*. Our project is aimed at combating climate change by capturing CO2 from the atmosphere, reducing temperature, and promoting sustainability. This solution is part of our mission to contribute towards a greener planet.
 
@@ -26,9 +26,9 @@ Welcome to *Eco Cool, an innovative web platform developed by **Team Quantum Cod
 ## Technologies Used
 
 - *Frontend*: HTML, CSS, JavaScript  
-- *Backend*: [Add tech used – e.g., Node.js, Flask, etc., if applicable]  
-- *Data Visualization*: Chart.js / D3.js (or your tool of choice)  
-- *APIs*: [Mention if using any live climate or CO2 data APIs]
+- *Backend*: [tech used – e.g., Node.js, Flask, etc.]  
+- *Data Visualization*: Chart.js / D3.js (mysql)  
+- *APIs*: [google map]
 
 Our Mission
 
@@ -38,9 +38,9 @@ Contribution
 
 We welcome feedback, issues, and contributions! Please feel free to fork the repo and submit a pull request.
 
-Team Quantum Coders – Innovating for a cooler, greener tomorrow.
+Team Quantom Coders – Innovating for a cooler, greener tomorrow.
 This project contributers:-
 Harshit Singh:- FullStack (harshitthakur2325@gmail.com)
-Rana Pratap Singh:- Backend
+Rana Pratap Singh:- Backend (raghuvanshiranapratapsingh@gmail.com)
 Ananya Dwivedi:- Frontend (Ananyadwivedi304@gmail.com)
-Siya Panday:- Frontend 
+Siya Panday:- Frontend (pandeysiya86@gmail.com)
